@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Avnish Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src"https://raw.githubusercontent.com/AvaneeshKumarPatel/avnishpatel143/refs/heads/main/Accets/GIF-conding.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/AvaneeshKumarPatel/avnishpatel143/refs/heads/main/Accets/GIF-conding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avnishpatel143&label=Profile%20views&color=0e75b6&style=flat" alt="avnishpatel143" /> </p>
 
