@@ -41,4 +41,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avnishpatel143&show_icons=true&locale=en&layout=compact" alt="avnishpatel143" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avaneeshkumarpatel&" alt="avaneeshkumarpatel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avaneeshkumarpatel"/></p>
