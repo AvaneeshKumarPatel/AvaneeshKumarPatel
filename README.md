@@ -1,4 +1,4 @@
-![logo](https://github.com/avnishpatel143/avnishpatel143/blob/aner_without_Phone.jpg?raw=true)
+![logo]()
 <h1 align="center">Hi 👋, I'm Avaneeh Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
