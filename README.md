@@ -1,5 +1,5 @@
-![logo](https://github.com/avnishpatel143/avnishpatel143/blob/main/Baner_without_Phone.jpg?raw=true)
-<h1 align="center">Hi 👋, I'm Avnish Patel</h1>
+![logo](https://github.com/avnishpatel143/avnishpatel143/blob/aner_without_Phone.jpg?raw=true)
+<h1 align="center">Hi 👋, I'm Avaneeh Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/AvaneeshKumarPatel/avnishpatel143/refs/heads/main/Accets/GIF-conding.gif"/>
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Dev Detective](https://fantastic-naiad-208def.netlify.app/)
 
-- 🤝 I’m looking for help with **Backend Services**
+- 🤝 I’m looking for help with **Front-End Services**
 
 - 👨‍💻 All of my projects are available at [https://avnish0607.netlify.app/](https://avnish0607.netlify.app/)
 
