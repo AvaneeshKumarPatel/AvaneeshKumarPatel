@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **avnishpatel855@gmail.com**
 
-- 📄 Know about my experiences [https://avnish0607.netlify.app/](https://avnish0607.netlify.app/)
+- 📄 Know about my experiences [https://avnish0607.netlify.app/](https.netlify.app/)
 
 - ⚡ Fun fact **I think I am funny 😊**
 
