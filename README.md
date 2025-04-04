@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avnishpatel143&label=Profile%20views&color=0e75b6&style=flat" alt="avnishpatel143" /> </p>
 
 
-- 🔭 I’m currently working on [MERN Stack Development](https://avnish0607.netlify.app/)
+- 🔭 I’m currently working on [MERN Stack Development](https://avaneesh01.vercel.app/)
 
 - 🌱 I’m currently learning **React.Js , Node.Js**
 
@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for help with **Front-End Services**
 
-- 👨‍💻 All of my projects are available at [https://avnish0607.netlify.app/](https://avnish0607.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://avnish0607.netlify.app/](https://avaneesh01.vercel.app/)
 
 - 💬 Ask me about **Java Script , and React.Js*
 
 - 📫 How to reach me **avnishpatel855@gmail.com**
 
-- 📄 Know about my experiences [https://avnish0607.netlify.app/](https.netlify.app/)
+- 📄 Know about my experiences [https://avnish0607.netlify.app/](https://avaneesh01.vercel.app/)
 
 - ⚡ Fun fact **I think I am funny 😊**
 
