@@ -1,4 +1,3 @@
-![logo]()
 <h1 align="center">Hi 👋, I'm Avaneeh Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -9,7 +8,7 @@
 
 - 🔭 I’m currently working on [MERN Stack Development](https://avaneesh01.vercel.app/)
 
-- 🌱 I’m currently learning **React.Js , Node.Js**
+- 🌱 I’m currently learning **React.Js , Next.js**
 
 - 👯 I’m looking to collaborate on [Dev Detective](https://fantastic-naiad-208def.netlify.app/)
 
